@@ -137,3 +137,17 @@ h4{
 #image-carousel-container{
 	background-color: #B4EBCA;
 }
+.light-green-text{
+	color: lightgreen;
+}
+.gray-text{
+	color: gray;
+}
+.dark-gray-text{
+	color: darkgray;
+}
+.guinea-pig-text{
+	/*color: #57f542;
+	color: #f59942;*/
+	color: #ff7c00;
+}
